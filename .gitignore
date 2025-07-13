@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment and Python virtualenv
+.env
+.venv/
+venv/
+env/
+
+# Streamlit's temporary files
+.streamlit/
+
+# Jupyter Notebook checkpoints (if you use notebooks later)
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs and debugging
+*.log
+
+# Python egg metadata
+*.egg-info/
+
+# Ollama models (optional – if you store or download anything locally)
+ollama_models/
+
+# OS generated files
+Thumbs.db
+desktop.ini
